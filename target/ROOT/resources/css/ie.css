@@ -1,0 +1,19 @@
+#header-bottom .top-widget ul li .entry-item .entry-number,
+.kp-dropcap.radius,
+.kp-gallery-widget .owl-theme .owl-controls .owl-buttons div, 
+.kp-multimedia-box .owl-theme .owl-controls .owl-buttons div,
+.mask a,
+.img-circle {
+	behavior: url(js/PIE.htc);
+}
+
+
+.kp-featured-item-slider .entry-item .entry-content, 
+.kp-featured-widget .last-item .entry-content,
+.mask,
+.widget-area-14 .kp-featured-article-widget .last-item .entry-content,
+.widget-area-2 .kp-article-list-widget ul li .entry-content, 
+.widget-area-14 .kp-featured-article-widget ul.older-post li .entry-content,
+.kp-media-list .element .entry-item.video-post .play-icon {
+	background: url(../images/background/opacity6-ie.png) repeat 0 0;
+}
